@@ -20,7 +20,7 @@ The primary objectives of the HR Analytics dashboard are to:
 4. Slicers for filtering by department.
 5. Bar charts, donut charts, line charts, and KPI indicators for a comprehensive view of data.
 
-Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 1. Attrition Rate: Percentage of employees leaving the organization within a specific timeframe.
 2. Average Tenure: The average time employees remain with the organization.
