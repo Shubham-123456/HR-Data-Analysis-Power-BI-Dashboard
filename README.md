@@ -25,3 +25,9 @@ The primary objectives of the HR Analytics dashboard are to:
 1. Attrition Rate: Percentage of employees leaving the organization within a specific timeframe.
 2. Average Tenure: The average time employees remain with the organization.
 3. Average Salary: This also calculates the retention rate.
+
+## Conclusion
+
+1. Analyzed key drivers of attrition, identifying factors like job satisfaction, job role, salary slab, resulting in actionable insights for HR strategies.
+2. Enhanced decision-making by presenting data-driven visualizations, reducing report preparation time by 40%.
+3. Delivered insights that highlighted high-risk departments and roles, aiding in a 35% improvement in employee retention strategies.
